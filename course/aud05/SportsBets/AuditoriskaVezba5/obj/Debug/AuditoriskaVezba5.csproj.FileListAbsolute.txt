@@ -1,0 +1,11 @@
+C:\Users\mario\source\repos\SportsBets\AuditoriskaVezba5\bin\Debug\AuditoriskaVezba5.exe.config
+C:\Users\mario\source\repos\SportsBets\AuditoriskaVezba5\bin\Debug\AuditoriskaVezba5.exe
+C:\Users\mario\source\repos\SportsBets\AuditoriskaVezba5\bin\Debug\AuditoriskaVezba5.pdb
+C:\Users\mario\source\repos\SportsBets\AuditoriskaVezba5\obj\Debug\AuditoriskaVezba5.csprojAssemblyReference.cache
+C:\Users\mario\source\repos\SportsBets\AuditoriskaVezba5\obj\Debug\AuditoriskaVezba5.DodadiTim.resources
+C:\Users\mario\source\repos\SportsBets\AuditoriskaVezba5\obj\Debug\AuditoriskaVezba5.Form1.resources
+C:\Users\mario\source\repos\SportsBets\AuditoriskaVezba5\obj\Debug\AuditoriskaVezba5.Properties.Resources.resources
+C:\Users\mario\source\repos\SportsBets\AuditoriskaVezba5\obj\Debug\AuditoriskaVezba5.csproj.GenerateResource.cache
+C:\Users\mario\source\repos\SportsBets\AuditoriskaVezba5\obj\Debug\AuditoriskaVezba5.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\SportsBets\AuditoriskaVezba5\obj\Debug\AuditoriskaVezba5.exe
+C:\Users\mario\source\repos\SportsBets\AuditoriskaVezba5\obj\Debug\AuditoriskaVezba5.pdb

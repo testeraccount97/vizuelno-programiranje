@@ -1,0 +1,12 @@
+C:\Users\mario\source\repos\Kolokviumska\Airplanes\bin\Debug\Airplanes.exe.config
+C:\Users\mario\source\repos\Kolokviumska\Airplanes\bin\Debug\Airplanes.exe
+C:\Users\mario\source\repos\Kolokviumska\Airplanes\bin\Debug\Airplanes.pdb
+C:\Users\mario\source\repos\Kolokviumska\Airplanes\obj\Debug\Airplanes.csprojAssemblyReference.cache
+C:\Users\mario\source\repos\Kolokviumska\Airplanes\obj\Debug\Airplanes.DodadiAerodro.resources
+C:\Users\mario\source\repos\Kolokviumska\Airplanes\obj\Debug\Airplanes.Form1.resources
+C:\Users\mario\source\repos\Kolokviumska\Airplanes\obj\Debug\Airplanes.Properties.Resources.resources
+C:\Users\mario\source\repos\Kolokviumska\Airplanes\obj\Debug\Airplanes.csproj.GenerateResource.cache
+C:\Users\mario\source\repos\Kolokviumska\Airplanes\obj\Debug\Airplanes.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\Kolokviumska\Airplanes\obj\Debug\Airplanes.exe
+C:\Users\mario\source\repos\Kolokviumska\Airplanes\obj\Debug\Airplanes.pdb
+C:\Users\mario\source\repos\Kolokviumska\Airplanes\obj\Debug\Airplanes.addDest.resources
